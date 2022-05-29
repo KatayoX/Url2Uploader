@@ -1,4 +1,4 @@
-## All Uploader Bot ❤️
+Url2Uploader
 
 [![Sparkline](https://stars.medv.io/kalanakt/All-Url-Uploader.svg)](https://stars.medv.io/kalanakt/All-Url-Uploader)
 
