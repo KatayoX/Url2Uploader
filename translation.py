@@ -14,7 +14,7 @@ URL | filename | username | password"""
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@TMWAD"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
-    CUSTOM_CAPTION_UL_FILE = "{}"
+    CUSTOM_CAPTION_UL_FILE = "{KatmovieHD}"
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     ABOUT_MSG = """ Something About Me :
     
