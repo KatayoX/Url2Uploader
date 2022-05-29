@@ -63,7 +63,7 @@ async def Gthumb01(bot, update):
         thumbnail = await bot.download_media(message=db_thumbnail, file_name=thumb_image_path)
         Image.open(thumbnail).convert("RGB").save(thumbnail)
         img = Image.open(thumbnail)
-        img.resize((100, 100))
+        img.resize((150, 100))
         img.save(thumbnail, "JPEG")
     else:
         thumbnail = None
