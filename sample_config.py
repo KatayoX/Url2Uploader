@@ -32,7 +32,7 @@ class Config((object)):
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
-    DEF_WATER_MARK_FILE = "https://catimage.net/images/2022/05/29/android-icon-144x144-1.png"
+    DEF_WATER_MARK_FILE = ""
     # your telegram id
     OWNER_ID = int(os.environ.get("OWNER_ID", ""))
     # database session name, example: xurluploader
